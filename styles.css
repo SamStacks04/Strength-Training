@@ -1,7 +1,22 @@
+#mainHeader{
+    text-align: center;
+}
+a:link{
+    text-decoration:none;
+    color: black;
+}
+a:visited{
+    color: black;
+}
+
+.exerciseList{
+}
+
 .squatimg{
     width: 800px;
     height: auto;
 }
+
 .ohpimg{
     width: 400px;
     height:auto;
